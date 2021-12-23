@@ -1,4 +1,4 @@
 #!/bin/bash
 ZIP=e4bible.zip
 zip -9 -r $ZIP bible.sqlite3 config.h dbg.h e4bible.c e4bible.h Makefile sqlite
-echo Creato $ZIP
+echo Created $ZIP
